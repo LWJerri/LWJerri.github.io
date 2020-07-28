@@ -3,7 +3,6 @@
     margin: 0;
     background-color: #282c34;
     font-family: monospace;
-    pointer-events: none;
 }
 
 @media screen and (max-width: 501px){
@@ -45,6 +44,10 @@
 
 .LeadResource{
     margin: 20px;
+}
+
+.LeadHead img{
+    pointer-events: none;
 }
 
 .LeadResource h1{
