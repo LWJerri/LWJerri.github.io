@@ -3,17 +3,9 @@
 *{
     padding: 0;
     margin: 0;
-   /* background-color: #282c34;*/
+    background-color: #282c34;
     font-family: monospace;
     box-sizing: border-box;
-}
-
-@media screen and (max-width: 501px){
-    .LeadHead img {display: none;}  
-}
-
-@media screen and (max-height: 662px){
-    .LeadHead img {display: none;}
 }
 
 .LeadBoxPage{
@@ -84,9 +76,34 @@
 /* Project Box Area */
 
 .ProjectApp{
-    top: 50%; 
-    left: 50%; 
-    margin: 0 auto;
-    background-color: red;
-    width: 1120px;
+    margin-bottom: 60px;
+}
+
+.ProjectBox h1{
+    font-size: 40px;
+    color: #1593ed;
+}
+
+.ProjectBox p{
+    font-size: 26px;
+    padding-right: 15%;
+    padding-left: 15%;
+    color: white;
+}
+
+.ProjectBox a{
+    color: #fc3c3c;
+    text-decoration: none;
+}
+
+.ProjectLanguage i{
+    font-size: 40px;
+}
+
+.ProjectBox img{
+    margin-bottom: 5px;
+}
+
+.ProjectLanguage{
+    margin-bottom: 15px;
 }
