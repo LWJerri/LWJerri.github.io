@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Riddea",
+        "description": "Open-source telegram bot based on Telegraf for view anime images, uploading your picture without limits and more other!",
+        "uses": "TypeScript, VSCode, PostgreSQL, TypeORM"
+    },
+    {
+        "title": "VilStats",
+        "description": "Windows app based on Electron.js for add people in database with needed parameters with supports CRUD methods.",
+        "uses": "HTML, CSS, PHP, VSCode"
+    },
+    {
+        "title": "JAPI",
+        "description": "My private API with many features, includes get Twitch user stats, discord information and more other.",
+        "uses": "TypeScript, VSCode, ExpressJS, Docker"
+    },
+    {
+        "title": "Openner",
+        "description": "Private Discord bot with moderation features, alerts about new videos on YouTube, alert when streamer start stream on Twitch, auto-role system and xp.",
+        "uses": "VSCode, TypeScript"
+    },
+    {
+        "title": "Lequille",
+        "description": "Private Discord bot made by for my friends. He have funny commands, xp system, emoji triggers, creating voice channels and sync Telegram chat with Discord.",
+        "uses": "VSCode, TypeScript, MongoDB"
+    },
+    {
+        "title": "JeelangaHelper",
+        "description": "Open-source Discord bot with moderation features, anti-spam system and ticket triggers.",
+        "uses": "VSCode, TypeScript, "
+    }
+]
