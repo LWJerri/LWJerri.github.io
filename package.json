@@ -1,8 +1,9 @@
 {
     "name": "lwjerri.github.io",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "scripts": {
         "dev": "vite",
+        "prebuild": "rimraf docs",
         "build": "vite build",
         "preview": "vite preview"
     },
@@ -10,6 +11,7 @@
         "@sveltejs/vite-plugin-svelte": "^1.0.0-next.7",
         "prettier": "^2.3.0",
         "prettier-plugin-svelte": "^2.3.0",
+        "rimraf": "^3.0.2",
         "svelte": "^3.37.0",
         "svelte-preprocess": "^4.7.2",
         "typescript": "^4.2.4",

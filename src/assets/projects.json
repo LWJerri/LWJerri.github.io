@@ -27,6 +27,6 @@
     {
         "title": "JeelangaHelper",
         "description": "Open-source Discord bot with moderation features, anti-spam system and ticket triggers.",
-        "uses": "VSCode, TypeScript, "
+        "uses": "VSCode, TypeScript"
     }
 ]
