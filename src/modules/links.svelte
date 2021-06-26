@@ -1,9 +1,9 @@
 <div class="links">
   <h1>LINKS</h1>
-  <a href="https://vk.com/LWJerri"><i class="fab fa-vk fa-4x" /></a>
-  <a href="https://t.me/LWJerri"><i class="fab fa-telegram-plane fa-4x" /></a>
-  <a href="https://dsc.bio/432085389948485633"><i class="fab fa-discord fa-4x" /></a>
-  <a href="https://github.com/LWJerri"><i class="fab fa-github fa-4x" /></a>
+  <a href="https://vk.com/LWJerri" target="_blank"><i class="fab fa-vk fa-4x" /></a>
+  <a href="https://t.me/LWJerri" target="_blank"><i class="fab fa-telegram-plane fa-4x" /></a>
+  <a href="https://dsc.bio/432085389948485633" target="_blank"><i class="fab fa-discord fa-4x" /></a>
+  <a href="https://github.com/LWJerri" target="_blank"><i class="fab fa-github fa-4x" /></a>
 </div>
 
 <style>

@@ -1,19 +1,19 @@
 [
   {
     "title": "Lequille",
-    "description": "I maded this project for easy sync Discord and Telegram group chats. Bot can send animated emojis, create YouTube invite links, get user avatar, moderation commands, stats about user and level system.",
+    "description": "I maded this project for sync Discord and Telegram group chats. Bot can send animated emojis, create YouTube invite links, get user avatar, have more moderation commands, stats about user and level system.",
     "uses": ["JavaScript", "TypeScript", "Node.js", "Express", "MongoDB", "CapRover", "Heroku", "Visual Studio Code", "Git"],
     "url": ""
   },
   {
     "title": "lwjerri.js.org",
-    "description": "My personal website with information about me and my projects list.",
+    "description": "My personal website with information about me and my projects.",
     "uses": ["TypeScript", "Svelte", "CSS3", "HTML5", "Node.js", "Nginx", "Figma", "Git", "Visual Studio Code"],
     "url": "https://lwjerri.js.org"
   },
   {
     "title": "Modestal",
-    "description": "Private Discord bot for moderate server, announce when streamer start stream on Twitch, YouTube, fun commands, level system, top dashboard and very custumizable rewards, xp per message, etc.",
+    "description": "Private Discord bot for moderate server, announce when streamer start stream on Twitch, YouTube, fun commands, level system, top dashboard and custumizable rewards, xp per message, etc.",
     "uses": [
       "JavaScript",
       "TypeScript",
@@ -35,8 +35,8 @@
     "url": ""
   },
   {
-    "title": "ManageGift Website",
-    "description": "Simple PHP website with minimal design, support dark and light mode made by for Arabic bot ManageGift.",
+    "title": "ManageGift website",
+    "description": "Website based on PHP with minimal design, support dark and light modes made special for Arabic discord ManageGift bot.",
     "uses": ["JavaScript", "PHP", "Bootstrap", "CSS3", "HTML5", "Adobe Photoshop", "Git", "Visual Studio Code", "VPS"],
     "url": "https://managegift.ga"
   },
@@ -48,10 +48,10 @@
   },
   {
     "title": "Openner",
-    "description": "Private Discord bot with a lot of moderation commands, fun and more other functions. Announce about new videos on YouTube, streams on Twitch, give role by reactions, create voice channels, backup server and more other!",
+    "description": "Private Discord bot with a lot of moderation commands, fun and more other features. Announce about new videos on YouTube, streams on Twitch, give role by reactions, create voice channels, auto-backup server and more other!",
     "uses": [
       "JavaScript",
-      "Svete",
+      "Svelte",
       "Bootstrap",
       "HTML5",
       "Node.js",
@@ -93,7 +93,7 @@
   },
   {
     "title": "VilStats",
-    "description": "Windows application for manage peoples information maded special for accounting. Application now active uses in village territorial community.",
+    "description": "Windows application for manage information about people maded special for accounting. Application now active uses in village territorial community.",
     "uses": [
       "JavaScript",
       "PHP",
@@ -112,7 +112,7 @@
   },
   {
     "title": "Jeelanga",
-    "description": "Multifunctional Discord bot for make stuff moderation easy, anime commands, find music, films by name, Reddit, YouTube, Twith announces and more other features.",
+    "description": "Multifunctional Discord bot for make stuff moderation easy, anime commands, find music & films by name, Reddit, YouTube, Twith announces and more other features.",
     "uses": [
       "JavaScript",
       "TypeScript",
@@ -122,7 +122,7 @@
       "HTML5",
       "Node.js",
       "Express",
-      "Postgresql",
+      "PostgreSQL",
       "Redis",
       "Chart.js",
       "VPS",
@@ -137,19 +137,19 @@
   },
   {
     "title": "JeelangaHelper",
-    "description": "Bot for help moderate Discord server. Support multi-language, moderate commands, join/leave messages, reaction triggers, an anti-spam system.",
+    "description": "Bot for help moderate Discord server. Support multi-language, moderate commands, join & leave messages, reaction triggers, and anti-spam system.",
     "uses": ["TypeScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
     "url": "https://github.com/Jeelanga/JeelangaHelper"
   },
   {
     "title": "JeelangaMusic",
-    "description": "Discord music bot with many features. Support YouTube, YouTube Music, Spotify, VK music, Deezer and radio stations. Play your favourite playlists and more other.",
+    "description": "Discord music bot with many features. Support YouTube, YouTube Music, Spotify, VK Music, Deezer and radio stations. Play your favourite playlists and more other.",
     "uses": ["JavaScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
     "url": "https://github.com/Jeelanga/JeelangaMusic"
   },
   {
     "title": "Riddea",
-    "description": "Massive project for view anime SFW/NSFW images in Telegram bot with features upload favorite user images to bot databse, set collection and view on website, desktop or mobile app. Very big thanks Satont for helps me open new borders in programming!",
+    "description": "Massive project for view anime SFW/NSFW images in Telegram bot with features upload favorite user images to bot databse, set collection and view on website, desktop or mobile app. Very big thanks to Satont for helps me open new borders in programming!",
     "uses": [
       "TypeScript",
       "Node.js",
@@ -167,7 +167,7 @@
     "url": "https://github.com/Riddea/Riddea"
   },
   {
-    "title": "Riddea Website",
+    "title": "Riddea website",
     "description": "Official Riddea project website. This website support Telegram authorization, view users public collections, images and more other!",
     "uses": [
       "TypeScript",
