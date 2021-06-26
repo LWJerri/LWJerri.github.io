@@ -10,11 +10,11 @@
 
 <style>
   h1 {
-    font-size: 45px;
+    font-size: 2.8125rem;
   }
 
   p {
-    font-size: 25px;
+    font-size: 1.5625rem;
   }
 
   img {
@@ -23,12 +23,12 @@
     margin-right: auto;
     max-width: 100%;
     height: auto;
-    border-radius: 250px;
+    border-radius: 15.625rem;
     pointer-events: none;
   }
 
   .about {
-    margin: 25px 0px 50px 0px;
+    margin: 1.5625rem 0rem 3.125rem 0rem;
     color: #fff;
   }
 </style>

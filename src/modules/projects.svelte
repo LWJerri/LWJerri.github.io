@@ -20,24 +20,24 @@
 
 <style>
   h1 {
-    font-size: 35px;
+    font-size: 2.1875rem;
   }
 
   #description {
     word-wrap: break-word;
-    font-size: 25px;
+    font-size: 1.5625rem;
   }
 
   #uses {
-    font-size: 20px;
+    font-size: 1.25rem;
     color: cyan;
   }
 
   .project {
-    margin: 50px 10% 50px 10%;
+    margin: 3.125rem 10% 3.125rem 10%;
   }
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 64rem) {
     #description {
       margin: 0% 3% 0% 3%;
     }

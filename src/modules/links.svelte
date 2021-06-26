@@ -13,10 +13,10 @@
 
   i {
     color: #fff;
-    margin: 0px 5px 0px 5px;
+    margin: 0rem 0.3125rem 0rem 0.3125rem;
   }
 
   .links {
-    margin: 25px 0px 50px 0px;
+    margin: 1.5625rem 0rem 3.125rem 0rem;
   }
 </style>
