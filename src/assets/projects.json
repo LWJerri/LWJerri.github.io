@@ -1,32 +1,188 @@
 [
-    {
-        "title": "Riddea",
-        "description": "Open-source telegram bot based on Telegraf for view anime images, uploading your picture without limits and more other!",
-        "uses": "TypeScript, VSCode, PostgreSQL, TypeORM"
-    },
-    {
-        "title": "VilStats",
-        "description": "Windows app based on Electron.js for add people in database with needed parameters with supports CRUD methods.",
-        "uses": "HTML, CSS, PHP, VSCode"
-    },
-    {
-        "title": "JAPI",
-        "description": "My private API with many features, includes get Twitch user stats, discord information and more other.",
-        "uses": "TypeScript, VSCode, ExpressJS, Docker"
-    },
-    {
-        "title": "Openner",
-        "description": "Private Discord bot with moderation features, alerts about new videos on YouTube, alert when streamer start stream on Twitch, auto-role system and xp.",
-        "uses": "VSCode, TypeScript"
-    },
-    {
-        "title": "Lequille",
-        "description": "Private Discord bot made by for my friends. He have funny commands, xp system, emoji triggers, creating voice channels and sync Telegram chat with Discord.",
-        "uses": "VSCode, TypeScript, MongoDB"
-    },
-    {
-        "title": "JeelangaHelper",
-        "description": "Open-source Discord bot with moderation features, anti-spam system and ticket triggers.",
-        "uses": "VSCode, TypeScript"
-    }
+  {
+    "title": "Lequille",
+    "description": "I maded this project for easy sync Discord and Telegram group chats. Bot can send animated emojis, create YouTube invite links, get user avatar, moderation commands, stats about user and level system.",
+    "uses": ["JavaScript", "TypeScript", "Node.js", "Express", "MongoDB", "CapRover", "Heroku", "Visual Studio Code", "Git"],
+    "url": ""
+  },
+  {
+    "title": "lwjerri.js.org",
+    "description": "My personal website with information about me and my projects list.",
+    "uses": ["TypeScript", "Svelte", "CSS3", "HTML5", "Node.js", "Nginx", "Figma", "Git", "Visual Studio Code"],
+    "url": "https://lwjerri.js.org"
+  },
+  {
+    "title": "Modestal",
+    "description": "Private Discord bot for moderate server, announce when streamer start stream on Twitch, YouTube, fun commands, level system, top dashboard and very custumizable rewards, xp per message, etc.",
+    "uses": [
+      "JavaScript",
+      "TypeScript",
+      "Svelte",
+      "Bootstrap",
+      "Node.js",
+      "Express",
+      "Nginx",
+      "PostgreSQL",
+      "Redis",
+      "Chart.js",
+      "Heroku",
+      "Figma",
+      "Postman",
+      "Visual Studio Code",
+      "Git",
+      "TypeORM"
+    ],
+    "url": ""
+  },
+  {
+    "title": "ManageGift Website",
+    "description": "Simple PHP website with minimal design, support dark and light mode made by for Arabic bot ManageGift.",
+    "uses": ["JavaScript", "PHP", "Bootstrap", "CSS3", "HTML5", "Adobe Photoshop", "Git", "Visual Studio Code", "VPS"],
+    "url": "https://managegift.ga"
+  },
+  {
+    "title": "DartaCluster",
+    "description": "Simple parser images from VK, Instagram and Reddit with saving images to database.",
+    "uses": ["TypeScript", "Node.js", "MongoDB", "Heroku", "Git", "Visual Studio Code"],
+    "url": ""
+  },
+  {
+    "title": "Openner",
+    "description": "Private Discord bot with a lot of moderation commands, fun and more other functions. Announce about new videos on YouTube, streams on Twitch, give role by reactions, create voice channels, backup server and more other!",
+    "uses": [
+      "JavaScript",
+      "Svete",
+      "Bootstrap",
+      "HTML5",
+      "Node.js",
+      "Express",
+      "Nginx",
+      "PostgreSQL",
+      "Heroku",
+      "Figma",
+      "Postman",
+      "Git",
+      "Intellij IDEA",
+      "TypeORM"
+    ],
+    "url": ""
+  },
+  {
+    "title": "FreeBot",
+    "description": "Simple Discord bot with moderation commands and level system.",
+    "uses": ["TypeScript", "Node.js", "PostgreSQL", "Git", "Visual Studio Code", "TypeORM"],
+    "url": "https://github.com/LWJerri/FreeBot"
+  },
+  {
+    "title": "JAPI",
+    "description": "My own API for parse information about user on Twitch and Discord. Support generating short links.",
+    "uses": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GCP",
+      "Heroku",
+      "Vercel",
+      "Postman",
+      "Git",
+      "Visual Studio Code"
+    ],
+    "url": "https://kappapride.ml"
+  },
+  {
+    "title": "VilStats",
+    "description": "Windows application for manage peoples information maded special for accounting. Application now active uses in village territorial community.",
+    "uses": [
+      "JavaScript",
+      "PHP",
+      "CSS3",
+      "HTML5",
+      "jQuery",
+      "Node.js",
+      "Electron",
+      "Figma",
+      "Postman",
+      "Linux",
+      "Git",
+      "Visual Studio Code"
+    ],
+    "url": ""
+  },
+  {
+    "title": "Jeelanga",
+    "description": "Multifunctional Discord bot for make stuff moderation easy, anime commands, find music, films by name, Reddit, YouTube, Twith announces and more other features.",
+    "uses": [
+      "JavaScript",
+      "TypeScript",
+      "Svelte",
+      "Bootstrap",
+      "CSS3",
+      "HTML5",
+      "Node.js",
+      "Express",
+      "Postgresql",
+      "Redis",
+      "Chart.js",
+      "VPS",
+      "Electron",
+      "Figma",
+      "Postman",
+      "Nuxt.js",
+      "Git",
+      "Visual Studio Code"
+    ],
+    "url": ""
+  },
+  {
+    "title": "JeelangaHelper",
+    "description": "Bot for help moderate Discord server. Support multi-language, moderate commands, join/leave messages, reaction triggers, an anti-spam system.",
+    "uses": ["TypeScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
+    "url": "https://github.com/Jeelanga/JeelangaHelper"
+  },
+  {
+    "title": "JeelangaMusic",
+    "description": "Discord music bot with many features. Support YouTube, YouTube Music, Spotify, VK music, Deezer and radio stations. Play your favourite playlists and more other.",
+    "uses": ["JavaScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
+    "url": "https://github.com/Jeelanga/JeelangaMusic"
+  },
+  {
+    "title": "Riddea",
+    "description": "Massive project for view anime SFW/NSFW images in Telegram bot with features upload favorite user images to bot databse, set collection and view on website, desktop or mobile app. Very big thanks Satont for helps me open new borders in programming!",
+    "uses": [
+      "TypeScript",
+      "Node.js",
+      "Nginx",
+      "PostgreSQL",
+      "Docker",
+      "CapRover",
+      "Postman",
+      "Git",
+      "Visual Studio Code",
+      "NestJS",
+      "Fastify",
+      "TypeORM"
+    ],
+    "url": "https://github.com/Riddea/Riddea"
+  },
+  {
+    "title": "Riddea Website",
+    "description": "Official Riddea project website. This website support Telegram authorization, view users public collections, images and more other!",
+    "uses": [
+      "TypeScript",
+      "Svelte",
+      "CSS3",
+      "HTML5",
+      "Node.js",
+      "Nginx",
+      "Docker",
+      "CapRover",
+      "Figma",
+      "Git",
+      "Visual Studio Code",
+      "Vite"
+    ],
+    "url": "https://riddea.ml"
+  }
 ]
