@@ -1,4 +1,4 @@
-# LWJerri's peronal portfolio page
+# LWJerri's portfolio
 
 ## LICENSE
 
