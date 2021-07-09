@@ -21,11 +21,13 @@
 <style>
   h1 {
     font-size: 2.1875rem;
+    color: white;
   }
 
   #description {
     word-wrap: break-word;
     font-size: 1.5625rem;
+    color: white;
   }
 
   #uses {

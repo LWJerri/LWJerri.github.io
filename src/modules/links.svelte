@@ -18,5 +18,6 @@
 
   .links {
     margin: 1.5625rem 0rem 3.125rem 0rem;
+    color: white;
   }
 </style>
