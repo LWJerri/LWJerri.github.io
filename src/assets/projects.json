@@ -12,29 +12,6 @@
     "url": "https://lwjerri.js.org"
   },
   {
-    "title": "Modestal",
-    "description": "Private Discord bot for moderate server, announce when streamer start stream on Twitch, YouTube, fun commands, level system, top dashboard and custumizable rewards, xp per message, etc.",
-    "uses": [
-      "JavaScript",
-      "TypeScript",
-      "Svelte",
-      "Bootstrap",
-      "Node.js",
-      "Express",
-      "Nginx",
-      "PostgreSQL",
-      "Redis",
-      "Chart.js",
-      "Heroku",
-      "Figma",
-      "Postman",
-      "Visual Studio Code",
-      "Git",
-      "TypeORM"
-    ],
-    "url": ""
-  },
-  {
     "title": "ManageGift website",
     "description": "Website based on PHP with minimal design, support dark and light modes made special for Arabic discord ManageGift bot.",
     "uses": ["JavaScript", "PHP", "Bootstrap", "CSS3", "HTML5", "Adobe Photoshop", "Git", "Visual Studio Code", "VPS"],
@@ -105,31 +82,6 @@
       "Figma",
       "Postman",
       "Linux",
-      "Git",
-      "Visual Studio Code"
-    ],
-    "url": ""
-  },
-  {
-    "title": "Jeelanga",
-    "description": "Multifunctional Discord bot for make stuff moderation easy, anime commands, find music & films by name, Reddit, YouTube, Twith announces and more other features.",
-    "uses": [
-      "JavaScript",
-      "TypeScript",
-      "Svelte",
-      "Bootstrap",
-      "CSS3",
-      "HTML5",
-      "Node.js",
-      "Express",
-      "PostgreSQL",
-      "Redis",
-      "Chart.js",
-      "VPS",
-      "Electron",
-      "Figma",
-      "Postman",
-      "Nuxt.js",
       "Git",
       "Visual Studio Code"
     ],
