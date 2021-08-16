@@ -18,39 +18,6 @@
     "url": "https://managegift.ga"
   },
   {
-    "title": "DartaCluster",
-    "description": "Simple parser images from VK, Instagram and Reddit with saving images to database.",
-    "uses": ["TypeScript", "Node.js", "MongoDB", "Heroku", "Git", "Visual Studio Code"],
-    "url": ""
-  },
-  {
-    "title": "Openner",
-    "description": "Private Discord bot with a lot of moderation commands, fun and more other features. Announce about new videos on YouTube, streams on Twitch, give role by reactions, create voice channels, auto-backup server and more other!",
-    "uses": [
-      "JavaScript",
-      "Svelte",
-      "Bootstrap",
-      "HTML5",
-      "Node.js",
-      "Express",
-      "Nginx",
-      "PostgreSQL",
-      "Heroku",
-      "Figma",
-      "Postman",
-      "Git",
-      "Intellij IDEA",
-      "TypeORM"
-    ],
-    "url": ""
-  },
-  {
-    "title": "FreeBot",
-    "description": "Simple Discord bot with moderation commands and level system.",
-    "uses": ["TypeScript", "Node.js", "PostgreSQL", "Git", "Visual Studio Code", "TypeORM"],
-    "url": "https://github.com/LWJerri/FreeBot"
-  },
-  {
     "title": "JAPI",
     "description": "My own API for parse information about user on Twitch and Discord. Support generating short links.",
     "uses": [
@@ -92,12 +59,6 @@
     "description": "Bot for help moderate Discord server. Support multi-language, moderate commands, join & leave messages, reaction triggers, and anti-spam system.",
     "uses": ["TypeScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
     "url": "https://github.com/Jeelanga/JeelangaHelper"
-  },
-  {
-    "title": "JeelangaMusic",
-    "description": "Discord music bot with many features. Support YouTube, YouTube Music, Spotify, VK Music, Deezer and radio stations. Play your favourite playlists and more other.",
-    "uses": ["JavaScript", "Node.js", "Heroku", "Git", "Visual Studio Code"],
-    "url": "https://github.com/Jeelanga/JeelangaMusic"
   },
   {
     "title": "Riddea",
