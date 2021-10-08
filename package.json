@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node": ">= 16"
+    "node": ">= 12"
   },
   "repository": "https://github.com/LWJerri/lwjerri.github.io",
   "author": "LWJerri (lwjerri.js.org)",
