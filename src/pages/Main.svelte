@@ -29,12 +29,15 @@
       <div class="project">
         <h1>
           {project.name}
-          {@html (project.link &&= `<a href=${project.link} target="_blank" style="color: #22B8CF; font-size: 1.875rem;"><i class="fas fa-link"></i></a>`)}
         </h1>
+
+        {#each project.links as link}
+          {@html `<a href=${link} target="_blank" style="color: #22B8CF; font-size: 1.875rem; margin: 0px 5px 0px 5px"><i class="fas fa-link"></i></a>`}
+        {/each}
 
         <article>
           <p>{project.description}</p>
-          <h3>{project.tools.join(", ")}</h3>
+          <h3><i>{project.tools.join(", ")}</i></h3>
         </article>
       </div>
     {/each}
@@ -126,9 +129,12 @@
     margin-top: 2.188rem;
   }
 
+  .project h1 {
+    color: #22b8cf;
+  }
+
   .project article h3 {
     font-size: 1.25rem;
-    color: aqua;
     margin-top: 0.625rem;
   }
 

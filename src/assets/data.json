@@ -9,7 +9,7 @@
     {
       "name": "Pauperial",
       "description": "Simple web application for creating short links and QR-codes from long links.",
-      "link": "https://github.com/LWJerri/Pauperial",
+      "links": ["https://github.com/LWJerri/Pauperial", "https://pauperial.herokuapp.com"],
       "tools": [
         "Yarn",
         "Git",
@@ -27,37 +27,37 @@
     {
       "name": "lwjerri.github.io",
       "description": "My personal website with information about me and my projects.",
-      "link": "https://lwjerri.js.org",
+      "links": ["https://lwjerri.js.org", "https://github.com/LWJerri/lwjerri.github.io"],
       "tools": ["Yarn", "TypeScript", "Visual Studio Code", "Prettier", "Vite", "Svelte", "Git", "GitHub Pages"]
     },
     {
       "name": "ManageGift Web",
       "description": "Website for discord ManageGift bot based on PHP. This site has a developer list, bot commands, and basic bot information.",
-      "link": "https://managegift.ga/",
+      "links": ["https://managegift.ga/"],
       "tools": ["Git", "Visual Studio Code", "PHP", "Prettier", "JavaScript", "HTML5", "CSS3"]
     },
     {
       "name": "DartaCluster",
       "description": "Simple application for parse images from VK, Instagram, and Reddit with saving images to the database.",
-      "link": "",
+      "links": [],
       "tools": ["Git", "Visual Studio Code", "JavaScript", "Prettier", "PostgreSQL", "Heroku", "Express"]
     },
     {
       "name": "VilStats",
       "description": "Windows application for manage people's stats. This app is made for enterprises and stores personal information in one place.",
-      "link": "",
+      "links": [],
       "tools": ["Git", "Visual Studio Code", "MongoDB", "Prettier", "Express", "HTML5", "CSS3", "JavaScript"]
     },
     {
       "name": "JAPI",
       "description": "My personal API for getting information about users from Discord, Twitch, and Instagram.",
-      "link": "https://japi.ohori.me",
+      "links": ["https://japi.ohori.me"],
       "tools": ["Git", "Visual Studio Code", "TypeScript", "Google Cloud", "Docker", "Express", "Prettier"]
     },
     {
       "name": "Riddea",
       "description": "Telegram bot for view SFW & NSFW anime images or GIFs with feature upload yourself images to bot database.",
-      "link": "https://github.com/Riddea/Riddea",
+      "links": ["https://github.com/Riddea/Riddea", "https://t.me/riddea_bot"],
       "tools": [
         "Git",
         "Visual Studio Code",
@@ -77,37 +77,37 @@
     {
       "name": "Riddea web",
       "description": "Website for Riddea telegram bot based on Vite. Also, this site can display user collections and images of the collection.",
-      "link": "https://riddea.ml/",
+      "links": ["https://riddea.ml/", "https://github.com/Riddea/Riddea"],
       "tools": ["Git", "Visual Studio Code", "TypeScript", "Vite", "Svelte", "Prettier"]
     },
     {
       "name": "FreeBot",
       "description": "Simple public discord bot for moderate chat and log when a user joins/leaves with a welcome message and role given.",
-      "link": "https://github.com/LWJerri/FreeBot",
+      "links": ["https://github.com/LWJerri/FreeBot"],
       "tools": ["Git", "Visual Studio Code", "Heroku", "TypeScript", "Prettier"]
     },
     {
       "name": "Openner",
       "description": "The multilanguage bot with displaying how many users are in the voice channel now, sending announce messages when streamer start a stream on Twitch, log delete & edited messages, role add & remove, and many other features.",
-      "link": "",
+      "links": [],
       "tools": ["Git", "Visual Studio Code", "Heroku", "TypeORM", "JavaScript", "PostgreSQL", "Prettier"]
     },
     {
       "name": "JeelangaHelper",
       "description": "Discord bot for moderate chat and create a ticket when user clicking on reaction.",
-      "link": "https://github.com/Jeelanga/JeelangaHelper",
+      "links": ["https://github.com/Jeelanga/JeelangaHelper"],
       "tools": ["Git", "Visual Studio Code", "TypeScript", "Prettier"]
     },
     {
       "name": "Modestal",
       "description": "Discord bot to help administrators manage the server, create user voice channels, moderate chat, level system, and more.",
-      "link": "",
+      "links": [],
       "tools": ["Git", "Visual Studio Code", "TypeScript", "Express", "PostgreSQL", "TypeORM", "Prettier", "Docker"]
     },
     {
       "name": "Lequille",
       "description": "Discord bot for creating voice rooms, display user avatar, custom level system, etc.",
-      "link": "",
+      "links": [],
       "tools": ["Git", "Visual Studio Code", "Docker", "Grammy", "PostgreSQL", "TypeORM", "Prettier"]
     }
   ]
