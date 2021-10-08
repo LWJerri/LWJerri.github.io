@@ -1,9 +1,9 @@
 {
   "contacts": [
-    { "link": "https://dsc.bio/432085389948485633", "icon": "fab fa-discord" },
-    { "link": "https://t.me/LWJerri", "icon": "fab fa-telegram-plane" },
-    { "link": "https://vk.com/LWJerri", "icon": "fab fa-vk" },
-    { "link": "https://github.com/LWJerri", "icon": "fab fa-github" }
+    { "link": "https://dsc.bio/432085389948485633", "icon": "fab fa-discord fa-5x" },
+    { "link": "https://t.me/LWJerri", "icon": "fab fa-telegram-plane fa-5x" },
+    { "link": "https://vk.com/LWJerri", "icon": "fab fa-vk fa-5x" },
+    { "link": "https://github.com/LWJerri", "icon": "fab fa-github fa-5x" }
   ],
   "projects": [
     {
