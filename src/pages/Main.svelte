@@ -116,7 +116,6 @@
 
   .box #link {
     margin: 0rem 0.313rem 0rem 0.313rem;
-    font-size: 3.438rem;
   }
 
   .box #link:hover {
