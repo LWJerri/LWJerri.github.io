@@ -7,6 +7,12 @@
   ],
   "projects": [
     {
+      "name": "steam-workshop-downloader",
+      "description": "npmjs.org package for fetching information about steam workshop product with a file download link.",
+      "links": ["https://github.com/LWJerri/steam-workshop-downloader", "https://www.npmjs.com/package/@lwjerri/steam-workshop-downloader"],
+      "tools": ["Visual Studio Code", "TypeScript", "Prettier", "Git", "npmjs.org", "tap"]
+    },
+    {
       "name": "Pauperial",
       "description": "Simple web application for creating short links and QR-codes from long links.",
       "links": ["https://github.com/LWJerri/Pauperial", "https://pauperial.herokuapp.com"],
