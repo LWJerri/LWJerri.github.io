@@ -14,12 +14,12 @@ yarn
 yarn build
 
 # Move to dist folder
-cd dist
+#cd dist
 
 # Add CNAME
 echo "lwjerri.js.org" > CNAME
 
-git add -A
+git add dist/
 git commit -m "test"
 
 git push origin workflows_build:tester --force
