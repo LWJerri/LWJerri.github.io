@@ -20,6 +20,6 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
-git push master gh-pages
+git push gh-pages
 
 cd -
