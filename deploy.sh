@@ -19,7 +19,7 @@ git config --global user.email $EMAIL
 git config --global user.name $USERNAME
 
 git add -A
-git commit -m "Deplot new code"
+git commit -m "Deploy new code"
 
 git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git gh-pages
 

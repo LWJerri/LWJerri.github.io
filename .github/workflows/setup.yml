@@ -1,8 +1,6 @@
 name: Build & Deploy
 
-on:
-  push:
-    branches: [workflows_build]
+on: [push, workflows_build]
 
 jobs:
   build:
