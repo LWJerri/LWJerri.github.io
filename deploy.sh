@@ -7,19 +7,18 @@ set -e
 yarn
 yarn build
 
-# Move to dist folder
-cd dist
-
-# Add CNAME file
-echo "lwjerri.js.org" > CNAME
-
 git init
 
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
-
-git add -A
-git commit -m "Deploy new code"
-git push
-cd -
 git push origin workflows_build:develop --force
+# Move to dist folder
+#cd dist
+
+# Add CNAME file
+#echo "lwjerri.js.org" > CNAME
+
+
+#git add -A
+#git commit -m "Deploy new code"
+#cd -
