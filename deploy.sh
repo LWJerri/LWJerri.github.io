@@ -7,6 +7,9 @@ set -e
 yarn
 yarn build
 
+# Move to dist folder
+cd dist
+
 # Add CNMAE file
 echo "lwjerri.js.org" > CNAME
 
@@ -17,6 +20,6 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
-git push git@github.com:LWJerri/LWJerri.github.io.git gh-pages
+git push master gh-pages
 
 cd -
