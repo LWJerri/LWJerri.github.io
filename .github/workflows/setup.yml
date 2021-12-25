@@ -8,8 +8,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Run sh script
-      - run: sh ./deploy.sh
-        env:
-          EMAIL: ${{ secrets.EMAIL }}
-          USERNAME: ${{ secrets.USERNAME }}
+      - name: Run script file
+        run: |
+          sh ./deploy.sh
+        shell: bash

@@ -15,8 +15,8 @@ echo "lwjerri.js.org" > CNAME
 
 git init
 
-git config --global user.email $EMAIL
-git config --global user.name $USERNAME
+git config --global user.email "CLWJerri@yandex.ua"
+git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
