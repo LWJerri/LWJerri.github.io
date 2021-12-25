@@ -17,7 +17,6 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
-git checkout gh-pages
-git push
+git push git@github.com:LWJerri/LWJerri.github.io.git gh-pages
 
 cd -
