@@ -25,6 +25,6 @@ git commit -m "test"
 
 git remote add devs git@github.com:LWJerri/lwjerri.github.io.git
 
-git push origin workflows_build:develop --force
+git push devs workflows_build:develop --force
 
 cd -
