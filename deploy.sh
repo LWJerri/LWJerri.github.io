@@ -22,6 +22,9 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "test"
-git push git@github.com:LWJerri/lwjerri.github.io.git workflows_build:develop --force
+
+git remote add devs git@github.com:LWJerri/lwjerri.github.io.git
+
+git push devs workflows_build:develop --force
 
 cd -
