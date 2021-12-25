@@ -20,7 +20,9 @@ git init
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
-git add .
+git add -A
 git commit -m "test"
 
-git push git@github.com:lwjerri/lwjerri.github.io workflows_build:edfrgt --force
+cd -
+
+git push origin workflows_build:develop --force
