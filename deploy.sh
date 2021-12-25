@@ -22,7 +22,6 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "test"
+git push origin workflows_build:develop --force
 
 cd -
-
-git push origin workflows_build:develop --force
