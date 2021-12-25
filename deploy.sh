@@ -13,10 +13,7 @@ git config --global user.name "LWJerri"
 yarn
 yarn build
 
-git stash save
-git checkout -b test
-git stash pop
-git push
+git stash branch test --force
 
 #git add -A
 #git commit -m "Deploy new code"
