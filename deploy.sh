@@ -18,8 +18,9 @@ git init
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
-git checkout develop
 git add -A
 git commit -m "Deploy new code"
-git push
+cd -
+git push origin workflows_build:develop
+
 cd -
