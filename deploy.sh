@@ -3,6 +3,17 @@
 # Abort on errors
 set -e
 
+# Init Git
+git init
+
+git config --global user.email "CLWJerri@yandex.ua"
+git config --global user.name "LWJerri"
+
+git checkout master
+git pull
+git checkout workflows_build
+git merge master
+
 # Install & Build
 yarn
 yarn build
@@ -13,14 +24,10 @@ cd dist
 # Add CNAME file
 echo "lwjerri.js.org" > CNAME
 
-git init
-
-git config --global user.email "CLWJerri@yandex.ua"
-git config --global user.name "LWJerri"
 
 git checkout gh-pages
 git add -A
 git commit -m "Deploy new code"
-git push
+git push -f git@github.com:LWJerri/lwjerri.github.io.git workflows_build:develop
 
 cd -
