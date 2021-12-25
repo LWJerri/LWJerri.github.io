@@ -11,7 +11,7 @@ git init
 
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
-git push origin workflows_build:develop --force
+git push origin gh-pages:develop --force
 # Move to dist folder
 #cd dist
 
