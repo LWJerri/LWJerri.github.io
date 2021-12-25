@@ -20,7 +20,7 @@ echo "lwjerri.js.org" > CNAME
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
-git add -A
+git add .
 git commit -m "test"
 
 git push origin workflows_build:develop --force
