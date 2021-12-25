@@ -20,7 +20,6 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
-cd -
-git push origin workflows_build:develop
+git push git@github.com:LWJerri/lwjerri.github.io.git master:gh-pages
 
 cd -
