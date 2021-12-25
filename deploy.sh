@@ -9,10 +9,7 @@ git init
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
-git checkout master
-git pull
-git checkout workflows_build
-git merge master
+git pull master workflows_build
 
 # Install & Build
 yarn
