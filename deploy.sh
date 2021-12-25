@@ -15,11 +15,10 @@ yarn build
 
 cd dist
 
-git checkout develop
 git add -A
 git commit -m "Deploy new code"
 
-git push origin workflows_build:develop --force
+git push
 # Move to dist folder
 #cd dist
 
