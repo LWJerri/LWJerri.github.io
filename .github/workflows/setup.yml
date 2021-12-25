@@ -1,0 +1,17 @@
+name: Build & Deploy
+
+on:
+  push:
+    branches: -workflows_build
+
+jobs:
+  build:
+    runs-on: ubuntu-lastest
+
+  steps:
+    - uses: actions/checkout@v2
+    - name: Run sh script
+    - run: sh ./deploy.sh
+      env:
+        EMAIL: ${{ secrets.EMAIL }}
+        USERNAME: ${{ secrets.USERNAME }}
