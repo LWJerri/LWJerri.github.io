@@ -13,8 +13,6 @@ git config --global user.name "LWJerri"
 yarn
 yarn build
 
-cd dist
-
 git stash save
 git checkout -b test
 git stash pop
