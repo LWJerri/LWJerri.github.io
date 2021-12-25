@@ -21,7 +21,7 @@ echo "lwjerri.js.org" > CNAME
 
 git status
 
-git add -A
+git add ./dist
 git commit -m "test"
 
 git push origin workflows_build:f3 --force
