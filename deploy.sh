@@ -17,8 +17,7 @@ cd dist
 
 git add -A
 git commit -m "test"
-cd -
-git push
+git push develop --force
 
 #git add -A
 #git commit -m "Deploy new code"
