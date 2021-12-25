@@ -19,7 +19,7 @@ yarn build
 # Add CNAME
 echo "lwjerri.js.org" > CNAME
 
-git add .
+git add dist
 git commit -m "test"
 
 git push origin workflows_build:fg --force
