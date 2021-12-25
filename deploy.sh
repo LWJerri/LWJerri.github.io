@@ -23,4 +23,4 @@ git config --global user.name "LWJerri"
 git add .
 git commit -m "test"
 
-git push origin workflows_build:edfrgt --force
+git push workflows_build:edfrgt --force
