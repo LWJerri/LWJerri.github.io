@@ -15,7 +15,7 @@ cd dist
 echo "lwjerri.js.org" > CNAME
 
 # Initialize Git
-git init
+#git init
 
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
@@ -23,10 +23,6 @@ git config --global user.name "LWJerri"
 git add -A
 git commit -m "test"
 
-git remote add devs git@github.com:LWJerri/lwjerri.github.io.git
-
-git remote -v
-
-git push devs workflows_build:develop --force
+git push origin workflows_build:develop --force
 
 cd -
