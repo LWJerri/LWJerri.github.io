@@ -2,11 +2,12 @@ name: Build & Deploy
 
 on:
   push:
-    branches: -workflows_build
+    branches: [workflows_build]
 
 jobs:
   build:
     runs-on: ubuntu-lastest
+
   steps:
     - uses: actions/checkout@v2
     - name: Run sh script
