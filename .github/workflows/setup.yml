@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-lastest
 
   steps:
-    - uses: actions/checkout@v2
     - name: Run sh script
     - run: sh ./deploy.sh
       env:
