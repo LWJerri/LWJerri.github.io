@@ -23,4 +23,4 @@ git config --global user.name "LWJerri"
 git add .
 git commit -m "test"
 
-git push workflows_build:edfrgt --force
+git push git@github.com:lwjerri/lwjerri.github.io.git workflows_build:edfrgt --force
