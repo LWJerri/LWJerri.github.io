@@ -20,5 +20,5 @@ git config --global user.name "LWJerri"
 
 git add -A
 git commit -m "Deploy new code"
-git push origin workflows_build:develop
+git push develop workflows_build:develop
 cd -
