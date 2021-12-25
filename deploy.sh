@@ -13,9 +13,11 @@ git config --global user.name "LWJerri"
 yarn
 yarn build
 
-git stash apply
-git checkout -b test
-git stash pop
+cd dist
+
+git add -A
+git commit -m "test"
+cd -
 git push
 
 #git add -A
