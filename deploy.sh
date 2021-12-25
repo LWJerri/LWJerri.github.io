@@ -21,4 +21,4 @@ git config --global user.name "LWJerri"
 git add -A
 git commit -m "Deploy new code"
 cd -
-git push -f gh-pages
+git push origin master:develop
