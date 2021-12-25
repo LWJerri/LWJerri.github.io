@@ -1,6 +1,6 @@
 name: Build & Deploy
 
-on: [push, workflows_build]
+on: [push]
 
 jobs:
   build:
