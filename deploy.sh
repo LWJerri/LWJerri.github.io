@@ -22,4 +22,4 @@ echo "lwjerri.js.org" > CNAME
 git add -A
 git commit -m "test"
 
-git push -f workflows_build:develop
+git push -f git@github.com:lwjerri/lwjerri.github.io.git master:develop
