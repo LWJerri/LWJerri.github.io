@@ -21,6 +21,6 @@ git config --global user.name "LWJerri"
 git add -A
 git commit -m "Deploy new code"
 
-git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git gh-pages
+git push -f git@github.com:LWJerri/LWJerri.github.io.git gh-pages
 
 cd -
