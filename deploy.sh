@@ -22,6 +22,6 @@ echo "lwjerri.js.org" > CNAME
 git add -A
 git commit -m "test"
 
-git push workflows_build workflows_build:develop --force
+git push origin workflows_build:tester --force
 
 cd -
