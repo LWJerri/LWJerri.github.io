@@ -15,10 +15,15 @@ yarn build
 
 cd dist
 
-git add -A
-git commit -m "Deploy new code"
-
+git stash save
+git checkout -b test
+git stash pop
 git push
+
+#git add -A
+#git commit -m "Deploy new code"
+
+#git push
 # Move to dist folder
 #cd dist
 
