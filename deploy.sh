@@ -3,7 +3,6 @@
 # Abort on errors
 set -e
 
-
 # Install & Build
 yarn
 yarn build
@@ -15,7 +14,7 @@ cd dist
 echo "lwjerri.js.org" > CNAME
 
 # Initialize Git
-#git init
+git init
 
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
@@ -24,6 +23,6 @@ git add .
 git commit -m "test"
 git status
 
-#git push origin workflows_build:develop --force
+git push origin workflows_build:develop --force
 
-#cd -
+cd -
