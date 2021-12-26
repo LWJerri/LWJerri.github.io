@@ -21,8 +21,9 @@ git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
 git add .
-git commit -m "test"
+git status
+#git commit -m "test"
 
-git push origin workflows_build:develop --force
+#git push origin workflows_build:develop --force
 
-cd -
+#cd -
