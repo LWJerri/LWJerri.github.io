@@ -1,0 +1,14 @@
+name: Build & Deploy
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run sh script
+        run: |
+          sh ./deploy.sh ${{ secrets.TOKEN }}
+        shell: bash
