@@ -19,6 +19,7 @@ git init
 git config --global user.email "CLWJerri@yandex.ua"
 git config --global user.name "LWJerri"
 
+git add -A
 git commit -m "test"
 git status
 
