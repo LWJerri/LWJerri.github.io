@@ -14,6 +14,10 @@ cd dist
 echo "lwjerri.js.org" > CNAME
 
 git init
+
+git config --global user.email "CLWJerri@yandex.ua"
+git config --global user.name "LWJerri"
+
 git add -A
 git commit -m "Deploy code changes"
 
