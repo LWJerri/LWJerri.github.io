@@ -1,0 +1,120 @@
+{
+  "contacts": [
+    { "link": "https://dsc.bio/432085389948485633", "icon": "fab fa-discord fa-5x" },
+    { "link": "https://t.me/LWJerri", "icon": "fab fa-telegram-plane fa-5x" },
+    { "link": "https://vk.com/LWJerri", "icon": "fab fa-vk fa-5x" },
+    { "link": "https://github.com/LWJerri", "icon": "fab fa-github fa-5x" }
+  ],
+  "projects": [
+    {
+      "name": "steam-workshop-downloader",
+      "description": "npmjs.org package for fetching information about steam workshop product with a file download link.",
+      "links": ["https://github.com/LWJerri/steam-workshop-downloader", "https://www.npmjs.com/package/@lwjerri/steam-workshop-downloader"],
+      "tools": ["Visual Studio Code", "TypeScript", "Prettier", "Git", "npmjs.org", "tap"]
+    },
+    {
+      "name": "Pauperial",
+      "description": "Simple web application for creating short links and QR-codes from long links.",
+      "links": ["https://github.com/LWJerri/Pauperial", "https://pauperial.herokuapp.com"],
+      "tools": [
+        "Yarn",
+        "Git",
+        "Visual Studio Code",
+        "TypeScript",
+        "Prettier",
+        "Express",
+        "TypeORM",
+        "PostgreSQL",
+        "Svelte",
+        "Vite",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "lwjerri.github.io",
+      "description": "My personal website with information about me and my projects.",
+      "links": ["https://lwjerri.js.org", "https://github.com/LWJerri/lwjerri.github.io"],
+      "tools": ["Yarn", "TypeScript", "Visual Studio Code", "Prettier", "Vite", "Svelte", "Git", "GitHub Pages"]
+    },
+    {
+      "name": "ManageGift Web",
+      "description": "Website for discord ManageGift bot based on PHP. This site has a developer list, bot commands, and basic bot information.",
+      "links": ["https://managegift.ga/"],
+      "tools": ["Git", "Visual Studio Code", "PHP", "Prettier", "JavaScript", "HTML5", "CSS3"]
+    },
+    {
+      "name": "DartaCluster",
+      "description": "Simple application for parse images from VK, Instagram, and Reddit with saving images to the database.",
+      "links": [],
+      "tools": ["Git", "Visual Studio Code", "JavaScript", "Prettier", "PostgreSQL", "Heroku", "Express"]
+    },
+    {
+      "name": "VilStats",
+      "description": "Windows application for manage people's stats. This app is made for enterprises and stores personal information in one place.",
+      "links": [],
+      "tools": ["Git", "Visual Studio Code", "MongoDB", "Prettier", "Express", "HTML5", "CSS3", "JavaScript"]
+    },
+    {
+      "name": "JAPI",
+      "description": "My personal API for getting information about users from Discord, Twitch, and Instagram.",
+      "links": ["https://japi.ohori.me"],
+      "tools": ["Git", "Visual Studio Code", "TypeScript", "Google Cloud", "Docker", "Express", "Prettier"]
+    },
+    {
+      "name": "Riddea",
+      "description": "Telegram bot for view SFW & NSFW anime images or GIFs with feature upload yourself images to bot database.",
+      "links": ["https://github.com/Riddea/Riddea", "https://t.me/riddea_bot"],
+      "tools": [
+        "Git",
+        "Visual Studio Code",
+        "Docker",
+        "Yarn",
+        "TypeScript",
+        "ESLint",
+        "Prettier",
+        "AWS S3",
+        "Fastify",
+        "Nest.js",
+        "TypeORM",
+        "PostgreSQL",
+        "Telegraf"
+      ]
+    },
+    {
+      "name": "Riddea web",
+      "description": "Website for Riddea telegram bot based on Vite. Also, this site can display user collections and images of the collection.",
+      "links": ["https://riddea.ml/", "https://github.com/Riddea/Riddea"],
+      "tools": ["Git", "Visual Studio Code", "TypeScript", "Vite", "Svelte", "Prettier"]
+    },
+    {
+      "name": "FreeBot",
+      "description": "Simple public discord bot for moderate chat and log when a user joins/leaves with a welcome message and role given.",
+      "links": ["https://github.com/LWJerri/FreeBot"],
+      "tools": ["Git", "Visual Studio Code", "Heroku", "TypeScript", "Prettier"]
+    },
+    {
+      "name": "Openner",
+      "description": "The multilanguage bot with displaying how many users are in the voice channel now, sending announce messages when streamer start a stream on Twitch, log delete & edited messages, role add & remove, and many other features.",
+      "links": [],
+      "tools": ["Git", "Visual Studio Code", "Heroku", "TypeORM", "JavaScript", "PostgreSQL", "Prettier"]
+    },
+    {
+      "name": "JeelangaHelper",
+      "description": "Discord bot for moderate chat and create a ticket when user clicking on reaction.",
+      "links": ["https://github.com/Jeelanga/JeelangaHelper"],
+      "tools": ["Git", "Visual Studio Code", "TypeScript", "Prettier"]
+    },
+    {
+      "name": "Modestal",
+      "description": "Discord bot to help administrators manage the server, create user voice channels, moderate chat, level system, and more.",
+      "links": [],
+      "tools": ["Git", "Visual Studio Code", "TypeScript", "Express", "PostgreSQL", "TypeORM", "Prettier", "Docker"]
+    },
+    {
+      "name": "Lequille",
+      "description": "Discord bot for creating voice rooms, display user avatar, custom level system, etc.",
+      "links": [],
+      "tools": ["Git", "Visual Studio Code", "Docker", "Grammy", "PostgreSQL", "TypeORM", "Prettier"]
+    }
+  ]
+}

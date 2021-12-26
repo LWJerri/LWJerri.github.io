@@ -1,0 +1,30 @@
+{
+  "name": "lwjerri.github.io",
+  "version": "2.0.4",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "repository": "https://github.com/LWJerri/lwjerri.github.io",
+  "author": "LWJerri (lwjerri.js.org)",
+  "license": "MIT",
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "@tsconfig/svelte": "^2.0.1",
+    "prettier": "^2.4.1",
+    "prettier-plugin-svelte": "^2.4.0",
+    "svelte": "^3.37.0",
+    "svelte-preprocess": "^4.7.2",
+    "tslib": "^2.2.0",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.0"
+  },
+  "dependencies": {
+    "svelte-navigator": "^3.1.5"
+  }
+}
