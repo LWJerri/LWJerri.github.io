@@ -439,10 +439,10 @@ svelte-hmr@^0.14.7:
   resolved "https://registry.yarnpkg.com/svelte-hmr/-/svelte-hmr-0.14.7.tgz#7fa8261c7b225d9409f0a86f3b9ea5c3ca6f6607"
   integrity sha512-pDrzgcWSoMaK6AJkBWkmgIsecW0GChxYZSZieIYfCP0v2oPyx2CYU/zm7TBIcjLVUPP714WxmViE9Thht4etog==
 
-svelte-navigator@^3.1.5:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/svelte-navigator/-/svelte-navigator-3.1.5.tgz#f79d78b2c2c5ad907d8b1d3748d3fbe12c32195c"
-  integrity sha512-CGTaexasSLpUaTSN2AlYqii0JeisIgg7uZbm8XCLKlpM9Qv3IltlJ7Nvh90Xw9ND97KqtGOjNJ3LNwMN1ABV0w==
+svelte-navigator@^3.1.6:
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/svelte-navigator/-/svelte-navigator-3.1.6.tgz#f15d5eae3e0fb26555a30b0129b786547842fd73"
+  integrity sha512-abIVURPuWAGSGZLQut2amyI30skc8IOrukaf5lcmnJ6/3E1bPEiNcsgss1TuXkZjjrSRZYTkelpCo/NSIE78cQ==
   dependencies:
     svelte2tsx "^0.1.151"
 
