@@ -10,9 +10,17 @@
   "engines": {
     "node": ">= 12"
   },
-  "repository": "https://github.com/LWJerri/lwjerri.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LWJerri/lwjerri.github.io.git"
+  },
+  "keywords": [],
   "author": "LWJerri (lwjerri.js.org)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LWJerri/lwjerri.github.io/issues"
+  },
+  "homepage": "https://github.com/LWJerri/lwjerri.github.io#readme",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.49",
     "@tsconfig/svelte": "^3.0.0",
