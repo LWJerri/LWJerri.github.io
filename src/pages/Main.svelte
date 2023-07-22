@@ -12,7 +12,7 @@
 <div class="main">
   <div style="text-align: center;">
     <img src="https://i.imgur.com/MlJSRqn.png" alt="AVATAR" style="width: 20vh;border-radius:100%;" />
-    <h1 id="name" style="outline: none;font-size: 6vh;">Andrey Zontov</h1>
+    <h1 id="name" style="outline: none;font-size: 6vh;">Andrii Zontov</h1>
     <p style="font-size: 3.5vh;">
       Hello! This is my old personal page.<br />Use new link or you will be redirected after 5 seconds!
     </p>
